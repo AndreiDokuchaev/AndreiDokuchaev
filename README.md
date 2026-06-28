@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Data engineer
 
-🎓 Here it is my [Portfolio](https://github.com/AndreiDokuchaev/AndreiDokuchaev)
+🎓 Here it is my [Portfolio](https://github.com/AndreiDokuchaev/Practicum_projects)
 
 
 ## Skills & Tools
